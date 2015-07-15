@@ -14,7 +14,7 @@ class JConfig {
 	public $dbtype = 'mysql';
 	public $host = 'localhost';
 	public $user = 'chuda';
-	public $password = 'chuda.007';
+	public $password = 'password';
 	public $db = 'ccpel_2';
 	public $dbprefix = 'xvi7m_';
 	public $live_site = '';
